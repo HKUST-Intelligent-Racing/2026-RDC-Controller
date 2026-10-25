@@ -26,13 +26,15 @@ Robotics Team recruitment._
 ## Integration
 
 The controller PCB was essential in supporting the following software tutorials
-in 2026:
-- **Tutorial 1**: Basic IO, GPIO, TFT -- _taught by Hedy (IR)_
+in 2026; refer to their respective tutorial notes for the detailed theory and
+usgae.
+
+- **Tutorial 1**: Basic IO, GPIO, TFT -- _taught by Hedy_
   - Controller features covered: debug LEDs, the bluepill, buttons, limit
   switches, TFT
-- **Tutorial 2**: UART and Bluetooth -- _taught by Kenyu (IR)_
+- **Tutorial 2**: UART and Bluetooth -- _taught by Kenyu_
   - Controller features covered: UART, HC-05
-- **Advanced Tutorial 1**: ADC, GPIO timing & I2C -- _taught by Tom (IR) and Tony (IR)_
+- **Advanced Tutorial 1**: ADC, GPIO timing & I2C -- _taught by Tom and Tony_
   - Controller features covered: Joysticks (ADC)
 
 An additional user manual was provided in the **additional-notes** folder in the
